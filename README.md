@@ -36,7 +36,25 @@ source by.zsh
 
 ### fish
 
+#### Plugin Manager
+
+##### [fisher](https://github.com/jorgebucaran/fisher)
+
 ```fish
+fisher install atusy/by-binds-yourself
+```
+
+##### [pez](https://github.com/tetzng/pez)
+
+```fish
+pez install atusy/by-binds-yourself
+```
+
+#### Manual
+
+```fish
+git clone https://github.com/atusy/by-binds-yourself.git
+cd by-binds-yourself
 source by.fish
 ```
 
