@@ -24,6 +24,8 @@ $
 Note that the bounded commandline buffer is still a normal commandline buffer.
 You still have chance to modify it before execution.
 
+See [Why `by`?](#why-by) for more use cases.
+
 ## Installation
 
 Supported shells: zsh, fish
