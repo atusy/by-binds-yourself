@@ -36,6 +36,14 @@ source by.zsh
 
 ### fish
 
+#### with [fisher](https://github.com/jorgebucaran/fisher)
+
+```
+fisher install atusy/by-binds-yourself
+```
+
+#### manual
+
 ```fish
 source by.fish
 ```
